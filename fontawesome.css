@@ -14,7 +14,7 @@
     font-family: "Font Awesome 5 Pro";
     font-weight: 900;
 }
-.fa,  .fab,    .fad,    .fal,    .far,    .fas {
+.fa, .fab, .fad, .fal, .far, .fas {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     display: inline-block;
