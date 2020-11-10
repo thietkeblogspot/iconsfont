@@ -11,7 +11,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'porta';
-    src: url('https://cdn.jsdelivr.net/gh/thietkeblogspot/font/porta.svg?49924914#porta') format('svg');
+    src: url('https://cdn.jsdelivr.net/gh/thietkeblogspot/fonts/porta.svg?49924914#porta') format('svg');
   }
 }
  [class^="icon-"]:before, [class*=" icon-"]:before {
